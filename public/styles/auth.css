@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+}
+
+form{
+    max-width: 25rem;
+    margin: var(--space-8) auto;
+    padding: var(--space-4);
+    background-color: rgb(32,32,32);
+    border-radius: var(--border-radius-medium);
+    text-align: center;
+}
+
+form a:hover{
+    text-decoration: underline;
+}
