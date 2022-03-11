@@ -21,10 +21,10 @@
     <img width="49.7%" src="https://user-images.githubusercontent.com/95272518/157801181-0907c060-4ec3-4e82-9e1b-6ebecf165a69.png">
     <img width="49.7%" src="https://user-images.githubusercontent.com/95272518/157801506-ed42cc91-b5f0-4c20-a5ba-4d7a679df272.png">
   <div>
-  <h5>WHAT DID I ADD?<br>
+  <h5>WHAT DID I ADD?<br><br>
       Page for registration, login (with csurf protection), products, shopping cart, orders and errors.<br>
       Implemented with mongo database. Enter "isAdmin" in user data to access admin area.<br><br><br>
-      WHAT IS E-COMMERCE?<br>
+      WHAT IS E-COMMERCE?<br><br>
       E-commerce refers to internet sales, more specifically, those carried out by a single company,<br>
       whether a manufacturer or reseller, through its own virtual platform.<br><br>
       Its main advantages pointed out by consumers are:<br>
