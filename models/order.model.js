@@ -1,26 +1,26 @@
-const mongodb = require('mongodb');
+const mongodb = require("mongodb");
 
-const db = require('../data/database');
+const db = require("../data/database");
 
-class Order {
+class Order{
   // Status => pending, fulfilled, cancelled
-  constructor(cart, userData, status = 'pending', date, orderId) {
+  constructor(cart, userData, status = 'pending', date, orderId){
     this.productData = cart;
     this.userData = userData;
     this.status = status;
     this.date = new Date(date);
     if (this.date) {
-      this.formattedDate = this.date.toLocaleDateString('en-US', {
-        weekday: 'short',
-        day: 'numeric',
-        month: 'long',
-        year: 'numeric',
+      this.formattedDate = this.date.toLocaleDateString("en-US", {
+        weekday: "short",
+        day: "numeric",
+        month: "long",
+        year: "numeric",
       });
     }
     this.id = orderId;
   }
 
-  static transformOrderDocument(orderDoc) {
+  static transformOrderDocument(orderDoc){
     return new Order(
       orderDoc.productData,
       orderDoc.userData,
@@ -30,7 +30,7 @@ class Order {
     );
   }
 
-  static transformOrderDocuments(orderDocs) {
+  static transformOrderDocuments(orderDocs){
     return orderDocs.map(this.transformOrderDocument);
   }
 

@@ -16,6 +16,9 @@ main{
     align-items: center;
     background-color: rgb(32,32,32);
     border-bottom: 2px solid var(--color-golden-300);
+    border-radius: var(--border-radius-medium);
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
 }
 
 #logo{

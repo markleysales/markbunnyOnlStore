@@ -1,14 +1,14 @@
-const Product = require('../models/product.model');
+const Product = require("../models/product.model");
 
 function getCart(req, res){
   res.render("customer/cart/cart");
 }
 
-async function addCartItem(req, res, next) {
+async function addCartItem(req, res, next){
   let product;
-  try {
+  try{
     product = await Product.findById(req.body.productId);
-  } catch (error) {
+  } catch (error){
     next(error);
     return;
   }

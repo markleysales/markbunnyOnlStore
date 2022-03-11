@@ -1,10 +1,10 @@
 const cartItemUpdateFormElements = document.querySelectorAll(
-    '.cart-item-management'
+    ".cart-item-management"
   );
-  const cartTotalPriceElement = document.getElementById('cart-total-price');
-  const cartBadgeElements = document.querySelectorAll('.navis .badge');
+  const cartTotalPriceElement = document.getElementById("cart-total-price");
+  const cartBadgeElements = document.querySelectorAll(".navis .badge");
   
-  async function updateCartItem(event) {
+  async function updateCartItem(event){
     event.preventDefault();
   
     const form = event.target;
@@ -15,34 +15,34 @@ const cartItemUpdateFormElements = document.querySelectorAll(
   
     let response;
     try {
-      response = await fetch('/cart/items', {
-        method: 'PATCH',
+      response = await fetch("/cart/items",{
+        method: "PATCH",
         body: JSON.stringify({
           productId: productId,
           quantity: quantity,
           _csrf: csrfToken,
         }),
         headers: {
-          'Content-Type': 'application/json',
+          "Content-Type": "application/json",
         },
       });
-    } catch (error) {
-      alert('Something went wrong!');
+    } catch (error){
+      alert("Something went wrong!");
       return;
     }
   
-    if (!response.ok) {
-      alert('Something went wrong!');
+    if (!response.ok){
+      alert("Something went wrong!");
       return;
     }
   
     const responseData = await response.json();
   
-    if (responseData.updatedCartData.updatedItemPrice === 0) {
+    if (responseData.updatedCartData.updatedItemPrice === 0){
       form.parentElement.parentElement.remove();
-    } else {
+    }else {
       const cartItemTotalPriceElement =
-        form.parentElement.querySelector('.cart-item-price');
+        form.parentElement.querySelector(".cart-item-price");
       cartItemTotalPriceElement.textContent =
         responseData.updatedCartData.updatedItemPrice.toFixed(2);
     }
@@ -57,6 +57,6 @@ const cartItemUpdateFormElements = document.querySelectorAll(
     
   }
   
-  for (const formElement of cartItemUpdateFormElements) {
-    formElement.addEventListener('submit', updateCartItem);
+  for (const formElement of cartItemUpdateFormElements){
+    formElement.addEventListener("submit", updateCartItem);
   }
