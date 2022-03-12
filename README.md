@@ -21,7 +21,7 @@
     <img width="49.7%" src="https://user-images.githubusercontent.com/95272518/157801181-0907c060-4ec3-4e82-9e1b-6ebecf165a69.png">
     <img width="49.7%" src="https://user-images.githubusercontent.com/95272518/157801506-ed42cc91-b5f0-4c20-a5ba-4d7a679df272.png">
   <div>
-  <h5>WHAT DID I ADD?<br><br>
+  <h5>WHAT WAS ADDED?<br><br>
       Page for registration, login (with csurf protection), products, shopping cart, orders and errors.<br>
       "isAdmin" entered in user allows access for administrative changes (page).<br>
       Implemented with Mongo database.<br><br><br>
