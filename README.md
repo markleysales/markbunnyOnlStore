@@ -23,13 +23,14 @@
   <div>
   <h5>WHAT DID I ADD?<br><br>
       Page for registration, login (with csurf protection), products, shopping cart, orders and errors.<br>
-      Implemented with mongo database. Enter "isAdmin" in user data to access admin area.<br><br><br>
+      "isAdmin" entered in user allows access for administrative changes (page).<br>
+      Implemented with Mongo database.<br><br><br>
       WHAT IS E-COMMERCE?<br><br>
       E-commerce refers to internet sales, more specifically, those carried out by a single company,<br>
       whether a manufacturer or reseller, through its own virtual platform.<br><br>
       Its main advantages pointed out by consumers are:<br>
-      possibility of purchase at any time (convenience);<br>
-      best prices (price).</h5>
+      - possibility of purchase at any time (convenience);<br>
+      - best prices (price).</h5>
     
   <br><br><br> 
   
