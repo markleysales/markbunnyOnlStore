@@ -78,7 +78,7 @@ npm start
     Email: marksales.dev.eng@gmail.com<br>
     LinkedIn: <a href="https://www.linkedin.com/in/markley-sales/">linkedin.com/in/markley-sales</a></h5><br>
     <div align="center">
-    <h5>Developed by Markley Sales.</h5>
+    <h5>Developed by Markley Sales</h5>
     <img width="30px" src="https://user-images.githubusercontent.com/95272518/157809937-b4a40a70-f631-4327-baab-5e2de2c7150e.svg">
     </div>
   </div>
