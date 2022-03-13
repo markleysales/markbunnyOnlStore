@@ -1,5 +1,5 @@
 <body>
-<h1><img width="100%" src="https://user-images.githubusercontent.com/95272518/158080372-2a732326-0306-46a4-a87a-89984d951a17.svg"></h1>
+<h1><img width="500px" src="https://user-images.githubusercontent.com/95272518/158081795-596e8875-84e8-4ebb-8658-ff525d0dca50.svg"></h1>
 <div>
   <p align="right"><a href="https://github.com/markleysales/markbunnyOnlStore/blob/main/package.json">
     <sup><strong>Complete and responsive online store | Version: 1.0.0</a></sup></strong></p>
