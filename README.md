@@ -55,8 +55,28 @@
   <br><br><br>
     
   <div>
-    <h3>Starting application</h3>
+    <h3>Starting application (console/prompt commands)</h3>
     <hr>
+<h4>Folder creation and access:</h4> 
+    
+```bash
+mkdir foldername
+```
+    
+```bash
+cd foldername
+```
+   
+<h4>Code cloning and acess:</h4> 
+    
+```bash
+git clone https://github.com/markleysales/markbunnyOnlStore.git
+```
+    
+```bash
+cd markbunnyOnlStore
+```
+    
 <h4>Install dependencies:</h4>
 
 ```bash
