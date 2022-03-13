@@ -1,5 +1,5 @@
 <body>
-<h1><img width="100%" src="https://user-images.githubusercontent.com/95272518/158076588-b899ae0f-3ef6-4c73-a49b-008c58237fcf.svg"></h1>
+<h1><img width="100%" src="https://user-images.githubusercontent.com/95272518/158080372-2a732326-0306-46a4-a87a-89984d951a17.svg"></h1>
 <div>
   <p align="right"><a href="https://github.com/markleysales/markbunnyOnlStore/blob/main/package.json">
     <sup><strong>Complete and responsive online store | Version: 1.0.0</a></sup></strong></p>
@@ -9,7 +9,7 @@
     <img width="40px" src="https://user-images.githubusercontent.com/95272518/157799254-d0d9c3d1-06a6-4df5-82c9-df413e4cf134.svg">
     <img width="40px" src="https://user-images.githubusercontent.com/95272518/157799276-39a59a51-d703-4ed4-8230-33f60f9721ff.svg">
     <img width="40px" src="https://user-images.githubusercontent.com/95272518/157799294-a63b929f-dd6c-4c54-9448-8cd277d68f6b.svg">
-  </div>
+  </div><br>
   <div float="left">
     <img width="100%" src="https://user-images.githubusercontent.com/95272518/157799514-e0fd4f89-d526-41e4-8e0b-ac63ea0dbad7.gif"><br><br>
     <img width="100%" src="https://user-images.githubusercontent.com/95272518/157800144-bcaa5848-5335-4c8c-95a9-8ce1f1903493.gif"><br><br>
@@ -81,8 +81,7 @@ npm start
     <h5>ᴇᴍᴀɪʟ: marksales.dev.eng@gmail.com<br>
         ʟɪɴᴋᴇᴅɪɴ: <a href="https://www.linkedin.com/in/markley-sales/">linkedin.com/in/markley-sales</a></h5><br>
     <div align="center">
-    <h5>Developed by Markley Sales</h5>
-    <img width="30px" src="https://user-images.githubusercontent.com/95272518/157809937-b4a40a70-f631-4327-baab-5e2de2c7150e.svg">
+      <img width="200px" src="https://user-images.githubusercontent.com/95272518/158080238-29312c06-12d4-4062-bf69-021f873354a2.svg">
     </div>
   </div>
 </div>
