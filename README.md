@@ -25,12 +25,13 @@
       Page for registration, login (with csurf protection), products, shopping cart, orders and errors.<br>
       "isAdmin" entered in user allows access for administrative changes (page).<br>
       Implemented with Mongo database.<br><br><br>
-      WHAT IS E-COMMERCE?<br><br>
+      <a href="https://rockcontent.com/br/blog/e-commerce-guia/">WHAT IS E-COMMERCE?<br><br>
       E-commerce refers to internet sales, more specifically, those carried out by a single company,<br>
-      whether a manufacturer or reseller, through its own virtual platform.<br><br>
-      Its main advantages pointed out by consumers are:<br>
-      - possibility of purchase at any time (convenience);<br>
-      - best prices (price).</h5>
+      whether a manufacturer or reseller, through its own virtual platform.<br>
+      Its main advantages pointed out by consumers are:<br><br>
+    <ul>
+        <li>possibility of purchase at any time (convenience)</li>
+        <li>best prices (price).</li></ul></a></h5>
     
   <br><br><br> 
   
@@ -74,9 +75,9 @@ npm start
   <div id="about">
     <h3>ABOUT</h3>
     <hr>
-    <H5>QUESTIONS AND SUGGESTIONS<br><br>
-    Email: marksales.dev.eng@gmail.com<br>
-    LinkedIn: <a href="https://www.linkedin.com/in/markley-sales/">linkedin.com/in/markley-sales</a></h5><br>
+    <h4>ǫᴜᴇsᴛɪᴏɴs ᴀɴᴅ sᴜɢɢᴇsᴛɪᴏɴs</h4>
+    <h5>ᴇᴍᴀɪʟ: marksales.dev.eng@gmail.com<br>
+        ʟɪɴᴋᴇᴅɪɴ: <a href="https://www.linkedin.com/in/markley-sales/">linkedin.com/in/markley-sales</a></h5><br>
     <div align="center">
     <h5>Developed by Markley Sales</h5>
     <img width="30px" src="https://user-images.githubusercontent.com/95272518/157809937-b4a40a70-f631-4327-baab-5e2de2c7150e.svg">
