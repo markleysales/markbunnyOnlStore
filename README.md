@@ -1,8 +1,9 @@
 <body>
-<h1>ᴇ-ᴄᴏᴍᴍᴇʀᴄᴇ ᴍᴀʀᴋʙᴜɴɴʏ</h1>
+<h1><img src="https://user-images.githubusercontent.com/95272518/158075673-5737ab24-1e6d-42b9-b0e9-e8cbeb993ff1.svg"></h1>
 <div>
-  <h4 align="right">Complete and responsive online store | Version: 1.0.0</h4>
-  <div>
+  <p align="right"><a href="https://github.com/markleysales/markbunnyOnlStore/blob/main/package.json">
+    <sup><strong>Complete and responsive online store | Version: 1.0.0</a></sup></strong></p>
+  <div align="center">
     <img width="40px" src="https://user-images.githubusercontent.com/95272518/157799236-8a87a088-b828-4b23-8462-91fc5809fc5f.svg">
     <img width="40px" src="https://user-images.githubusercontent.com/95272518/157799244-3e8e4e9f-6f81-4a58-8bfb-412dcb83f445.svg">
     <img width="40px" src="https://user-images.githubusercontent.com/95272518/157799254-d0d9c3d1-06a6-4df5-82c9-df413e4cf134.svg">
@@ -21,17 +22,18 @@
     <img width="49.7%" src="https://user-images.githubusercontent.com/95272518/157801181-0907c060-4ec3-4e82-9e1b-6ebecf165a69.png">
     <img width="49.7%" src="https://user-images.githubusercontent.com/95272518/157801506-ed42cc91-b5f0-4c20-a5ba-4d7a679df272.png">
   <div>
-  <h5>WHAT WAS ADDED?<br><br>
-      Page for registration, login (with csurf protection), products, shopping cart, orders and errors.<br>
-      "isAdmin" entered in user allows access for administrative changes (page).<br>
-      Implemented with Mongo database.<br><br><br>
-      <a href="https://rockcontent.com/br/blog/e-commerce-guia/">WHAT IS E-COMMERCE?<br><br>
-      E-commerce refers to internet sales, more specifically, those carried out by a single company,<br>
-      whether a manufacturer or reseller, through its own virtual platform.<br>
-      Its main advantages pointed out by consumers are:<br><br>
+    <h5>WHAT WAS ADDED?<br><br>
+        Page for registration, login (with csurf protection), products, shopping cart, orders and errors.<br>
+        "isAdmin" entered in user allows access for administrative changes (page).<br>
+        Implemented with Mongo database.<br><br><br>
+        <a href="https://rockcontent.com/br/blog/e-commerce-guia/">WHAT IS E-COMMERCE?<br><br>
+        E-commerce refers to internet sales, more specifically, those carried out by a single company,<br>
+        whether a manufacturer or reseller, through its own virtual platform.<br>
+        Its main advantages pointed out by consumers are:<br><br>
     <ul>
         <li>possibility of purchase at any time (convenience)</li>
-        <li>best prices (price).</li></ul></a></h5>
+        <li>best prices (price).</li>
+    </ul></a></h5>
     
   <br><br><br> 
   
