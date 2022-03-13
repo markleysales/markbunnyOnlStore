@@ -79,9 +79,9 @@ npm start
     <hr>
     <h4>ǫᴜᴇsᴛɪᴏɴs ᴀɴᴅ sᴜɢɢᴇsᴛɪᴏɴs</h4>
     <h5>ᴇᴍᴀɪʟ: marksales.dev.eng@gmail.com<br>
-        ʟɪɴᴋᴇᴅɪɴ: <a href="https://www.linkedin.com/in/markley-sales/">linkedin.com/in/markley-sales</a></h5><br>
+        ʟɪɴᴋᴇᴅɪɴ: <a href="https://www.linkedin.com/in/markley-sales/">linkedin.com/in/markley-sales</a></h5><br><br>
     <div align="center">
-      <img width="200px" src="https://user-images.githubusercontent.com/95272518/158080238-29312c06-12d4-4062-bf69-021f873354a2.svg">
+      <img width="200px" src="https://user-images.githubusercontent.com/95272518/158080877-f086d5a4-8dac-49b8-9892-597e93fb36f2.svg">
     </div>
   </div>
 </div>
