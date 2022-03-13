@@ -95,7 +95,7 @@ npm start
   <br><br><br> 
     
   <div id="about">
-    <h3>ABOUT</h3>
+    <h3>About</h3>
     <hr>
     <h4>ǫᴜᴇsᴛɪᴏɴs ᴀɴᴅ sᴜɢɢᴇsᴛɪᴏɴs</h4>
     <h5>ᴇᴍᴀɪʟ: marksales.dev.eng@gmail.com<br>
