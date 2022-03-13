@@ -89,7 +89,7 @@ npm install
 npm start
 ```
 
-<p><sup>Open <a href="http://localhost:3000">localhost:3000</a> or <a href="http://127.0.0.1:3000/products">127.0.0.1:3000</a> with your browser to see the result.</sup><p>
+<h4>Open <a href="http://localhost:3000">localhost:3000</a> or <a href="http://127.0.0.1:3000/products">127.0.0.1:3000</a> with your browser to see the result.</h4>
   </div>
     
   <br><br><br> 
