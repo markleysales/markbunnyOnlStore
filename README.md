@@ -77,7 +77,7 @@ git clone https://github.com/markleysales/markbunnyOnlStore.git
 cd markbunnyOnlStore
 ```
     
-<p><sup><strong>*check clone options in the "code" tab</sup></strong></p>
+<p><sup>*check clone options in the "code" tab</sup></p>
     
 <h4>Install dependencies:</h4>
 
