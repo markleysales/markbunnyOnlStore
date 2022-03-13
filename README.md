@@ -13,14 +13,14 @@
   <div float="left">
     <img width="100%" src="https://user-images.githubusercontent.com/95272518/157799514-e0fd4f89-d526-41e4-8e0b-ac63ea0dbad7.gif"><br><br>
     <img width="100%" src="https://user-images.githubusercontent.com/95272518/157800144-bcaa5848-5335-4c8c-95a9-8ce1f1903493.gif"><br><br>
-    <img width="49.4%" src="https://user-images.githubusercontent.com/95272518/157800757-8f9f2767-56d7-4cff-8b25-39950c180e4f.png">
-    <img width="49.4%" src="https://user-images.githubusercontent.com/95272518/157800780-3e2f755f-aa58-4df8-b078-e0b8d695ada1.png">
-    <img width="49.4%" src="https://user-images.githubusercontent.com/95272518/157800508-66661028-9822-4685-aa0d-be72095aa640.png">
-    <img width="49.4%" src="https://user-images.githubusercontent.com/95272518/157814897-d5010e01-479a-4fac-9c96-e9c373fd621c.png"><br><br>
-    <img width="49.4%" src="https://user-images.githubusercontent.com/95272518/157800918-d8683c2d-4b30-4cdb-a214-cb0522605c9b.png">
-    <img width="49.4%" src="https://user-images.githubusercontent.com/95272518/157800943-5a82d9d9-b508-4160-8c1a-959199ac60ff.png">
-    <img width="49.4%" src="https://user-images.githubusercontent.com/95272518/157801181-0907c060-4ec3-4e82-9e1b-6ebecf165a69.png">
-    <img width="49.4%" src="https://user-images.githubusercontent.com/95272518/157801506-ed42cc91-b5f0-4c20-a5ba-4d7a679df272.png">
+    <img width="49.3%" src="https://user-images.githubusercontent.com/95272518/157800757-8f9f2767-56d7-4cff-8b25-39950c180e4f.png">
+    <img width="49.3%" src="https://user-images.githubusercontent.com/95272518/157800780-3e2f755f-aa58-4df8-b078-e0b8d695ada1.png">
+    <img width="49.3%" src="https://user-images.githubusercontent.com/95272518/157800508-66661028-9822-4685-aa0d-be72095aa640.png">
+    <img width="49.3%" src="https://user-images.githubusercontent.com/95272518/157814897-d5010e01-479a-4fac-9c96-e9c373fd621c.png"><br><br>
+    <img width="49.3%" src="https://user-images.githubusercontent.com/95272518/157800918-d8683c2d-4b30-4cdb-a214-cb0522605c9b.png">
+    <img width="49.3%" src="https://user-images.githubusercontent.com/95272518/157800943-5a82d9d9-b508-4160-8c1a-959199ac60ff.png">
+    <img width="49.3%" src="https://user-images.githubusercontent.com/95272518/157801181-0907c060-4ec3-4e82-9e1b-6ebecf165a69.png">
+    <img width="49.3%" src="https://user-images.githubusercontent.com/95272518/157801506-ed42cc91-b5f0-4c20-a5ba-4d7a679df272.png">
   <div>
         <h5>WHAT WAS ADDED?<br><br>
         Page for registration, login (with csurf protection), products, shopping cart, orders and errors.<br>
