@@ -81,7 +81,7 @@ npm start
     <h5>ᴇᴍᴀɪʟ: marksales.dev.eng@gmail.com<br>
         ʟɪɴᴋᴇᴅɪɴ: <a href="https://www.linkedin.com/in/markley-sales/">linkedin.com/in/markley-sales</a></h5><br><br>
     <div align="center">
-      <img width="200px" src="https://user-images.githubusercontent.com/95272518/158080877-f086d5a4-8dac-49b8-9892-597e93fb36f2.svg">
+      <img width="200px" src="https://user-images.githubusercontent.com/95272518/158081056-0551f9ad-346c-435d-be4f-2b106cf91bee.svg">
     </div>
   </div>
 </div>
