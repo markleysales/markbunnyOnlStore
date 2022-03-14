@@ -57,7 +57,7 @@
   <div>
     <h3>Starting application (console/prompt commands)</h3>
     <hr>
-<h4>Folder creation and access:</h4> 
+<h5>FOLDER CREATION AND ACESS:</h5> 
     
 ```bash
 mkdir foldername
@@ -67,7 +67,7 @@ mkdir foldername
 cd foldername
 ```
    
-<h4>Code cloning and acess:</h4> 
+<br><h5>CODE CLONING AND ACESS:</h5> 
     
 ```bash
 git clone https://github.com/markleysales/markbunnyOnlStore.git
@@ -79,19 +79,19 @@ cd markbunnyOnlStore
     
 <p><sup>*check clone options in the "code" tab</sup></p>
     
-<h4>Install dependencies:</h4>
+<br><h5>INSTALL DEPENDENCIES:</h5>
 
 ```bash
 npm install
 ```
 
-<h4>Run development server:</h4>
+<br><h5>RUN DEVELOPMENT SERVER:</h5>
 
 ```bash
 npm start
 ```
 
-<h4>Open <a href="http://localhost:3000">localhost:3000</a> or <a href="http://127.0.0.1:3000/products">127.0.0.1:3000</a> with your browser to see the result.</h4>
+<h5>Open <a href="http://localhost:3000">localhost:3000</a> or <a href="http://127.0.0.1:3000/products">127.0.0.1:3000</a> with your browser to see the result.</h5>
   </div>
     
   <br><br><br> 
