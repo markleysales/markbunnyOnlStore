@@ -67,7 +67,7 @@ mkdir foldername
 cd foldername
 ```
    
-<br><h5>CODE CLONING AND ACESS:</h5> 
+<h5>CODE CLONING AND ACESS:</h5> 
     
 ```bash
 git clone https://github.com/markleysales/markbunnyOnlStore.git
@@ -79,13 +79,13 @@ cd markbunnyOnlStore
     
 <p><sup>*check clone options in the "code" tab</sup></p>
     
-<br><h5>INSTALL DEPENDENCIES:</h5>
+<h5>INSTALL DEPENDENCIES:</h5>
 
 ```bash
 npm install
 ```
 
-<br><h5>RUN DEVELOPMENT SERVER:</h5>
+<h5>RUN DEVELOPMENT SERVER:</h5>
 
 ```bash
 npm start
