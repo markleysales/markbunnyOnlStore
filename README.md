@@ -1,6 +1,6 @@
 <body>
 <h1><img width="580px" src="https://user-images.githubusercontent.com/95272518/158146961-b6e788ac-2083-48ac-8939-97c5b0e647f9.svg"></h1> <!-- 800px títulos -->
-<div>
+<br><div>
   <p><a href="https://github.com/markleysales/markbunnyOnlStore/blob/main/package.json">
     <sup><strong>Complete and responsive online store | Version: 1.0.0</a></sup></strong></p>
   <div align="left">
@@ -9,7 +9,7 @@
     <img width="36px" src="https://user-images.githubusercontent.com/95272518/157799254-d0d9c3d1-06a6-4df5-82c9-df413e4cf134.svg">
     <img width="36px" src="https://user-images.githubusercontent.com/95272518/157799276-39a59a51-d703-4ed4-8230-33f60f9721ff.svg">
     <img width="36px" src="https://user-images.githubusercontent.com/95272518/157799294-a63b929f-dd6c-4c54-9448-8cd277d68f6b.svg">
-  </div><br>
+  </div><h1></h1>
   <div>
     <img width="100%" src="https://user-images.githubusercontent.com/95272518/157799514-e0fd4f89-d526-41e4-8e0b-ac63ea0dbad7.gif"><br><br>
     <img width="100%" src="https://user-images.githubusercontent.com/95272518/157800144-bcaa5848-5335-4c8c-95a9-8ce1f1903493.gif"><br><br>
