@@ -42,8 +42,8 @@
     <hr><br>
     <table>
       <th>
-        <img width="44%" src="https://user-images.githubusercontent.com/95272518/157804111-12b16362-6db7-4fab-a4ac-17b5a32d6a4e.svg">
-        <img width="44%" src="https://user-images.githubusercontent.com/95272518/157804174-756d704a-14b7-4e35-901f-f9cbffe271ec.svg">
+        <img width=240px" src="https://user-images.githubusercontent.com/95272518/157804111-12b16362-6db7-4fab-a4ac-17b5a32d6a4e.svg">
+        <img width="240px" src="https://user-images.githubusercontent.com/95272518/157804174-756d704a-14b7-4e35-901f-f9cbffe271ec.svg">
       </tr>
     </table>
     <h5>
