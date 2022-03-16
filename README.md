@@ -101,7 +101,7 @@ npm start
     <hr>
     <h4>ǫᴜᴇsᴛɪᴏɴs ᴀɴᴅ sᴜɢɢᴇsᴛɪᴏɴs</h4>
     <h5>ᴇᴍᴀɪʟ: marksales.dev.eng@gmail.com<br>
-        ʟɪɴᴋᴇᴅɪɴ: <a href="https://www.linkedin.com/in/markley-sales/">linkedin.com/in/markley-sales</a></h5>
+        ʟɪɴᴋᴇᴅɪɴ: linkedin.com/in/markley-sales</h5>
     <br><br><br>
     <div align="center">
       <img width="220px" src="https://user-images.githubusercontent.com/95272518/158143637-05c28666-e3ec-48fe-8643-1d4141443364.svg">
