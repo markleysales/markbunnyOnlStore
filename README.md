@@ -21,11 +21,11 @@
     <img width="49.2%" src="https://user-images.githubusercontent.com/95272518/157800943-5a82d9d9-b508-4160-8c1a-959199ac60ff.png">
     <img width="49.2%" src="https://user-images.githubusercontent.com/95272518/157801181-0907c060-4ec3-4e82-9e1b-6ebecf165a69.png">
     <img width="49.2%" src="https://user-images.githubusercontent.com/95272518/157801506-ed42cc91-b5f0-4c20-a5ba-4d7a679df272.png"></div>
-  <div>
+  <div><br>
         <h5>WHAT WAS DONE?<br><br>
         Page for registration, login (with csurf protection), products, shopping cart, orders and errors.<br>
         "isAdmin" entered in user allows access for administrative changes (page).<br>
-        Implemented with Mongo database.</h5><br>
+        Implemented with Mongo database.</h5>
         <h5><a href="https://rockcontent.com/br/blog/e-commerce-guia/">WHAT IS E-COMMERCE?<br><br>
         E-commerce refers to internet sales, more specifically, those carried out by a single company,<br>
         whether a manufacturer or reseller, through its own virtual platform.<br>
