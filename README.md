@@ -1,9 +1,9 @@
 <body>
 <h1><img width="580px" src="https://user-images.githubusercontent.com/95272518/158146961-b6e788ac-2083-48ac-8939-97c5b0e647f9.svg"></h1> <!-- 800px títulos -->
 <br><div>
-  <p><a href="https://github.com/markleysales/markbunnyOnlStore/blob/main/package.json">
+  <p align="left"><a href="https://github.com/markleysales/markbunnyOnlStore/blob/main/package.json">
     <sup><strong>Complete and responsive online store | Version: 1.0.0</a></sup></strong></p>
-  <div align="left">
+  <div align="center">
     <img width="36px" src="https://user-images.githubusercontent.com/95272518/157799236-8a87a088-b828-4b23-8462-91fc5809fc5f.svg">
     <img width="36px" src="https://user-images.githubusercontent.com/95272518/157799244-3e8e4e9f-6f81-4a58-8bfb-412dcb83f445.svg">
     <img width="36px" src="https://user-images.githubusercontent.com/95272518/157799254-d0d9c3d1-06a6-4df5-82c9-df413e4cf134.svg">
