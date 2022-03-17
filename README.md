@@ -1,4 +1,3 @@
-<body>
 <h1><img width="580px" src="https://user-images.githubusercontent.com/95272518/158146961-b6e788ac-2083-48ac-8939-97c5b0e647f9.svg"></h1> <!-- 800px títulos -->
 <div>
   <p align="left"><a href="https://github.com/markleysales/markbunnyOnlStore/blob/main/package.json">
@@ -108,4 +107,3 @@ npm start
     </div>
   </div>
 </div>
-  
