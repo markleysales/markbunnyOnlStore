@@ -11,16 +11,16 @@
     <img width="36px" src="https://user-images.githubusercontent.com/95272518/157799294-a63b929f-dd6c-4c54-9448-8cd277d68f6b.svg">
   </div>
   <div>
-    <img width="100%" src="https://user-images.githubusercontent.com/95272518/157799514-e0fd4f89-d526-41e4-8e0b-ac63ea0dbad7.gif"><br><br>
-    <img width="100%" src="https://user-images.githubusercontent.com/95272518/157800144-bcaa5848-5335-4c8c-95a9-8ce1f1903493.gif"><br><br>
-    <div float="left" align="center"><img width="49.2%" src="https://user-images.githubusercontent.com/95272518/157800757-8f9f2767-56d7-4cff-8b25-39950c180e4f.png">
-    <img width="49.2%" src="https://user-images.githubusercontent.com/95272518/157800780-3e2f755f-aa58-4df8-b078-e0b8d695ada1.png">
-    <img width="49.2%" src="https://user-images.githubusercontent.com/95272518/157800508-66661028-9822-4685-aa0d-be72095aa640.png">
-    <img width="49.2%" src="https://user-images.githubusercontent.com/95272518/157814897-d5010e01-479a-4fac-9c96-e9c373fd621c.png"><br><br>
-    <img width="49.2%" src="https://user-images.githubusercontent.com/95272518/157800918-d8683c2d-4b30-4cdb-a214-cb0522605c9b.png">
-    <img width="49.2%" src="https://user-images.githubusercontent.com/95272518/157800943-5a82d9d9-b508-4160-8c1a-959199ac60ff.png">
-    <img width="49.2%" src="https://user-images.githubusercontent.com/95272518/157801181-0907c060-4ec3-4e82-9e1b-6ebecf165a69.png">
-    <img width="49.2%" src="https://user-images.githubusercontent.com/95272518/157801506-ed42cc91-b5f0-4c20-a5ba-4d7a679df272.png"></div>
+    <img width="100%" src="https://user-images.githubusercontent.com/95272518/158730801-8032b113-9eeb-4e71-888a-d1c3eedf0fda.gif"><br><br>
+    <img width="100%" src="https://user-images.githubusercontent.com/95272518/158730830-152a1d02-ade1-4a26-a131-5652bb7e008a.gif"><br><br>
+    <div float="left" align="center"><img width="49.2%" src="https://user-images.githubusercontent.com/95272518/158731032-86df5a34-5065-4526-a14d-aaa4a81603a1.png">
+    <img width="49.2%" src="https://user-images.githubusercontent.com/95272518/158731052-b2a0f5df-79f4-492d-8bbb-fd3f52e5b113.png">
+    <img width="49.2%" src="https://user-images.githubusercontent.com/95272518/158731140-0a42c2a7-6da6-44b4-9de1-3635942d0631.png">
+    <img width="49.2%" src="https://user-images.githubusercontent.com/95272518/158731155-cd1854e6-a48f-44c6-b4f9-8a8297b30714.png"><br><br>
+    <img width="49.2%" src="https://user-images.githubusercontent.com/95272518/158731163-a2058af9-2cfd-46e8-80aa-c13dee22f7f9.png">
+    <img width="49.2%" src="https://user-images.githubusercontent.com/95272518/158731175-3de22b51-87ba-426a-99a8-96de7341d709.png">
+    <img width="49.2%" src="https://user-images.githubusercontent.com/95272518/158731197-b8045c74-4f18-45a3-979e-0a346ab31994.png">
+    <img width="49.2%" src="https://user-images.githubusercontent.com/95272518/158731209-02d943c5-361a-433f-a7f1-097e8447a57e.png"></div>
   <div><br>
         <h5>WHAT WAS DONE?<br><br>
         Page for registration, login (with csurf protection), products, shopping cart, orders and errors.<br>
