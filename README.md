@@ -1,6 +1,7 @@
-<h1><img width="580px" src="https://user-images.githubusercontent.com/95272518/159177310-6cc11133-034a-47dd-886a-a9b9a4163fdb.svg"></h1> <!-- 800px títulos -->
+<h1 id="title"><img width="580px" src="https://user-images.githubusercontent.com/95272518/159177310-6cc11133-034a-47dd-886a-a9b9a4163fdb.svg"></h1> 
+<!-- --README MADE BY MARKLEY SALES-- 500px min 100px títulos e bansc bold + 3px de borda (texto) --README MADE BY MARKLEY SALES-- -->
 
-<div>
+<div id="technologies">
   <p align="left"><a href="https://github.com/markleysales/markbunnyOnlStore/blob/main/package.json">
     <sup><strong>Complete and responsive online store | Version: 1.0.0</a></sup></strong></p>
   <div align="right">
@@ -10,7 +11,7 @@
     <img width="36px" src="https://user-images.githubusercontent.com/95272518/157799276-39a59a51-d703-4ed4-8230-33f60f9721ff.svg">
     <img width="36px" src="https://user-images.githubusercontent.com/95272518/157799294-a63b929f-dd6c-4c54-9448-8cd277d68f6b.svg">
   </div>
-  <div>
+  <div id="repository-album">
     <img width="100%" src="https://user-images.githubusercontent.com/95272518/158730801-8032b113-9eeb-4e71-888a-d1c3eedf0fda.gif"><br><br>
     <img width="100%" src="https://user-images.githubusercontent.com/95272518/158730830-152a1d02-ade1-4a26-a131-5652bb7e008a.gif"><br><br>
     <div float="left" align="center"><img width="49.2%" src="https://user-images.githubusercontent.com/95272518/158731032-86df5a34-5065-4526-a14d-aaa4a81603a1.png">
@@ -21,7 +22,7 @@
     <img width="49.2%" src="https://user-images.githubusercontent.com/95272518/158731175-3de22b51-87ba-426a-99a8-96de7341d709.png">
     <img width="49.2%" src="https://user-images.githubusercontent.com/95272518/158731197-b8045c74-4f18-45a3-979e-0a346ab31994.png">
     <img width="49.2%" src="https://user-images.githubusercontent.com/95272518/158731209-02d943c5-361a-433f-a7f1-097e8447a57e.png"></div>
-  <div><br>
+  <div id="items-and-questions"><br>
         <h5>WHAT WAS DONE?<br><br>
         Page for registration, login (with csurf protection), products, shopping cart, orders and errors.<br>
         "isAdmin" entered in user allows access for administrative changes (page).<br>
@@ -40,7 +41,7 @@
   <br><br><br> 
   
     
-  <div>
+  <div id="app-installs">
     <h3>Machine installation required</h3>
     <hr><br>
     <table>
@@ -59,7 +60,7 @@
   <br><br><br>
     
                                                                        
-  <div>
+  <div id="instructions">
     <h3>Starting application (console/prompt commands)</h3>
     <hr>
 <h5>FOLDER CREATION AND ACESS:</h5> 
