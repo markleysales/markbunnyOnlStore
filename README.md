@@ -1,4 +1,5 @@
 <h1><img width="580px" src="https://user-images.githubusercontent.com/95272518/159177310-6cc11133-034a-47dd-886a-a9b9a4163fdb.svg"></h1> <!-- 800px títulos -->
+
 <div>
   <p align="left"><a href="https://github.com/markleysales/markbunnyOnlStore/blob/main/package.json">
     <sup><strong>Complete and responsive online store | Version: 1.0.0</a></sup></strong></p>
@@ -33,9 +34,12 @@
             <li>possibility of purchase at any time (convenience)</li>
             <li>best prices (price).</li>
           </ul></a></h5>
+    </div>
+    
     
   <br><br><br> 
   
+    
   <div>
     <h3>Machine installation required</h3>
     <hr><br>
@@ -51,8 +55,10 @@
     </h5>
   </div>
     
+                                                                       
   <br><br><br>
     
+                                                                       
   <div>
     <h3>Starting application (console/prompt commands)</h3>
     <hr>
@@ -93,14 +99,16 @@ npm start
 <h5>Open <a href="http://localhost:3000">localhost:3000</a> or <a href="http://127.0.0.1:3000/products">127.0.0.1:3000</a> with your browser to see the result.</h5>
   </div>
     
+                                                                                                       
   <br><br><br> 
     
+                                                                                                       
 <div id="about">
   <h3>About</h3>
   <hr>
-  <p>ǫᴜᴇsᴛɪᴏɴs ᴀɴᴅ sᴜɢɢᴇsᴛɪᴏɴs</p>
+  <p><sup><strong>QUESTIONS AND SUGGESTIONS</strong></sup></p>
   <p><sup><strong>ᴇᴍᴀɪʟ: marksales.dev.eng@gmail.com<br>
-    ʟɪɴᴋᴇᴅɪɴ: linkedin.com/in/markley-sales</sup></strong></p>
+    ʟɪɴᴋᴇᴅɪɴ: linkedin.com/in/markley-sales</strong></sup></p>
   <br><br><br>
   <div align="center">
     <img width="200px" src="https://user-images.githubusercontent.com/95272518/158143637-05c28666-e3ec-48fe-8643-1d4141443364.svg">
