@@ -35,7 +35,7 @@
             <li>possibility of purchase at any time (convenience)</li>
             <li>best prices (price).</li>
           </ul></a></h5>
-    </div>
+  </div>
     
     
   <br><br><br> 
