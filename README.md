@@ -106,8 +106,9 @@ npm start
     
                                                                                                        
 <div id="about">
-               <h3>About / Contact me / Questions and Suggestions</h3>
+               <h3>About / Contact me</h3>
   <hr>
+  <h5>QUESTIONS AND SUGGESTIONS:</h5>             
   <h5>ᴇᴍᴀɪʟ | marksales.dev.eng@gmail.com<br>
     ʟɪɴᴋᴇᴅɪɴ | linkedin.com/in/markley-sales</h5>
   <br><br><br>
