@@ -107,9 +107,9 @@ npm start
 <div id="about">
   <h3>About</h3>
   <hr>
-  <p><sup><strong>QUESTIONS AND SUGGESTIONS</strong></sup></p>
-  <p><sup><strong>ᴇᴍᴀɪʟ: marksales.dev.eng@gmail.com<br>
-    ʟɪɴᴋᴇᴅɪɴ: linkedin.com/in/markley-sales</strong></sup></p>
+  <h5>QUESTIONS AND SUGGESTIONS:</h5>
+  <h5>ᴇᴍᴀɪʟ | marksales.dev.eng@gmail.com<br>
+    ʟɪɴᴋᴇᴅɪɴ | linkedin.com/in/markley-sales</h5>
   <br><br><br>
   <div align="center">
     <img width="200px" src="https://user-images.githubusercontent.com/95272518/158143637-05c28666-e3ec-48fe-8643-1d4141443364.svg">
