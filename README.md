@@ -97,7 +97,7 @@ npm install
 npm start
 ```
 
-<p><sup>*Remember to check, after the commands, if the MongoDB server is running (you can see it according to the MongoError console return: connect ECONNREFUSED 127.0.0.1:27017), if not, start it.</sup></p>
+<p><sup>*remember to check, after the commands, if the MongoDB server is running (you can see it according to the MongoError console return: connect ECONNREFUSED 127.0.0.1:27017), if not, start it.</sup></p>
 <h5>Open <a href="http://localhost:3000">localhost:3000</a> or <a href="http://127.0.0.1:3000/products">127.0.0.1:3000</a> with your browser to see the result.</h5>
   </div>
     
