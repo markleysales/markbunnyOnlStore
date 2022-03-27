@@ -1,5 +1,5 @@
+<!-- --README MADE BY MARKLEY SALES!-- 500px min 100px títulos e bansc bold + 3px de borda (texto) --README MADE BY MARKLEY SALES!-- -->
 <h1 id="title"><img width="580px" src="https://user-images.githubusercontent.com/95272518/159177310-6cc11133-034a-47dd-886a-a9b9a4163fdb.svg"></h1> 
-<!-- --README MADE BY MARKLEY SALES-- 500px min 100px títulos e bansc bold + 3px de borda (texto) --README MADE BY MARKLEY SALES-- -->
 
 <div id="technologies">
   <p align="left"><a href="https://github.com/markleysales/markbunnyOnlStore/blob/main/package.json">
@@ -116,3 +116,4 @@ npm start
     <img width="192px" src="https://user-images.githubusercontent.com/95272518/158143637-05c28666-e3ec-48fe-8643-1d4141443364.svg">
   </div>
 </div>
+<!-- --README MADE BY MARKLEY SALES-- 500px min 100px títulos e bansc bold + 3px de borda (texto) --README MADE BY MARKLEY SALES-- -->
