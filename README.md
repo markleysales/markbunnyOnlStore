@@ -108,11 +108,11 @@ npm start
 <div id="about">
   <h3>About & Contact</h3>
   <hr>
-  <h5>QUESTIONS AND SUGGESTIONS:</h5>             
-  <h5>Email{ marksales.dev.eng@gmail.com }<br>
-    LinkedIn{ linkedin.com/in/markley-sales }</h5>
+  <p><sub><strong>QUESTIONS AND SUGGESTIONS:</strong></sub><P>             
+  <h5><sup>Email{ marksales.dev.eng@gmail.com }<br>
+           LinkedIn{ linkedin.com/in/markley-sales }</sup></h5>
   <br><br><br>
   <div align="center">
-    <img width="200px" src="https://user-images.githubusercontent.com/95272518/158143637-05c28666-e3ec-48fe-8643-1d4141443364.svg">
+    <img width="192px" src="https://user-images.githubusercontent.com/95272518/158143637-05c28666-e3ec-48fe-8643-1d4141443364.svg">
   </div>
 </div>
