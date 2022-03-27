@@ -1,4 +1,5 @@
-<h1 id="title"><img width="580px" src="https://user-images.githubusercontent.com/95272518/159177310-6cc11133-034a-47dd-886a-a9b9a4163fdb.svg"></h1> 
+<img id="title" width="580px" src="https://user-images.githubusercontent.com/95272518/159177310-6cc11133-034a-47dd-886a-a9b9a4163fdb.svg">
+<hr>
 <!-- --README MADE BY MARKLEY SALES-- 500px min 100px títulos e bansc bold + 3px de borda (texto) --README MADE BY MARKLEY SALES-- -->
 
 <div id="technologies">
@@ -42,8 +43,8 @@
   
     
   <div id="app-installs">
-    <h3>Machine installation required</h3>
-    <hr><br>
+    <h2>Machine installation required</h2>
+    <br>
     <table>
       <th>
         <img width=44%" src="https://user-images.githubusercontent.com/95272518/157804111-12b16362-6db7-4fab-a4ac-17b5a32d6a4e.svg">
@@ -61,8 +62,7 @@
     
                                                                        
   <div id="instructions">
-    <h3>Starting application (console/prompt commands)</h3>
-    <hr>
+    <h2>Starting application (console/prompt commands)</h2>
 <h5>FOLDER CREATION AND ACESS:</h5> 
     
 ```bash
@@ -106,8 +106,7 @@ npm start
     
                                                                                                        
 <div id="about">
-  <h3>About & Contact</h3>
-  <hr>
+  <h2>About & Contact</h2>
   <h5>QUESTIONS AND SUGGESTIONS:</h5>             
   <h5><sup>Email{ marksales.dev.eng@gmail.com }<br>
            LinkedIn{ linkedin.com/in/markley-sales }</sup></h5>
