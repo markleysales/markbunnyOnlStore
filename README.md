@@ -5,7 +5,7 @@
   <p align="left"><a href="https://github.com/markleysales/markbunnyOnlStore/blob/main/package.json">
     <sup><strong>Complete and responsive online store | Version: 1.0.0</a></sup></strong></p>
   <div align="right">
-    <img width="4px" src="https://user-images.githubusercontent.com/95272518/157799236-8a87a088-b828-4b23-8462-91fc5809fc5f.svg">
+    <img width="40px" src="https://user-images.githubusercontent.com/95272518/157799236-8a87a088-b828-4b23-8462-91fc5809fc5f.svg">
     <img width="40px" src="https://user-images.githubusercontent.com/95272518/157799244-3e8e4e9f-6f81-4a58-8bfb-412dcb83f445.svg">
     <img width="40px" src="https://user-images.githubusercontent.com/95272518/157799254-d0d9c3d1-06a6-4df5-82c9-df413e4cf134.svg">
     <img width="40px" src="https://user-images.githubusercontent.com/95272518/157799276-39a59a51-d703-4ed4-8230-33f60f9721ff.svg">
