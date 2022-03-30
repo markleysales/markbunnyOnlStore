@@ -1,7 +1,7 @@
 <!-- --README MADE BY MARKLEY SALES!-- 500px min 100px títulos e bansc bold + 3px de borda (texto) --README MADE BY MARKLEY SALES!-- -->
 <h1 id="title"><img width="580px" src="https://user-images.githubusercontent.com/95272518/159177310-6cc11133-034a-47dd-886a-a9b9a4163fdb.svg"></h1>
-<img align="left" height="20px" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmarkleysales%2FmarkbunnyOnlStore&count_bg=%23097BBB&title_bg=%2324292F&icon=cliqz.svg&icon_color=%23E7E7E7&title=Visits&edge_flat=false">
-<img align="left" height="20px" src="https://img.shields.io/github/last-commit/markleysales/markbunnyOnlStore?color=097BBB&label=Last%20commit&logo=Git&labelColor=24292F">
+<sub><img align="left" height="20px" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmarkleysales%2FmarkbunnyOnlStore&count_bg=%23097BBB&title_bg=%2324292F&icon=cliqz.svg&icon_color=%23E7E7E7&title=Visits&edge_flat=false">
+<img align="left" height="20px" src="https://img.shields.io/github/last-commit/markleysales/markbunnyOnlStore?color=097BBB&label=Last%20commit&logo=Git&labelColor=24292F"></sub>
 
 <div id="technologies">
   <p align="right"><a href="https://github.com/markleysales/markbunnyOnlStore/blob/main/package.json">
@@ -29,7 +29,7 @@
         Page for registration, login (with csurf protection), products, shopping cart, orders and errors.<br>
         "isAdmin" entered in user allows access for administrative changes (page).<br>
         Implemented with Mongo database.</h5>
-        <h5><a href="https://rockcontent.com/br/blog/e-commerce-guia/">WHAT IS E-COMMERCE?<br><br>
+        <h5><a href="https://rockcontent.com/br/blog/e-commerce-guia/">WHAT IS ECOMMERCE?<br><br>
         E-commerce refers to internet sales, more specifically, those carried out by a single company,<br>
         whether a manufacturer or reseller, through its own virtual platform.<br>
         Its main advantages pointed out by consumers are:<br><br>
