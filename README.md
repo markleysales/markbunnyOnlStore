@@ -114,7 +114,6 @@ npm start
   <a href="https://www.linkedin.com/in/markley-sales/"><img width="34px" src="https://user-images.githubusercontent.com/95272518/160725427-5c844c00-078d-4bee-9af7-2a89d5082b1c.svg"></a>
   <a href="https://www.behance.net/markleysales"><img width="34px" src="https://user-images.githubusercontent.com/95272518/160725548-52a7fde7-0dca-4eea-a1df-a4cef6cd5629.svg"></a>
   <a href="https://www.instagram.com/mark__sales/"><img width="34px" src="https://user-images.githubusercontent.com/95272518/160725991-e77f66f8-5cda-4b4a-aaec-7f0390233324.svg"></a>
-  <br><br>
   <p align="right"><sub>Ask questions, suggestions and give me feedback!<br>Thanks for viewing the project!</sub></p>
   <br><br><br>
   <div align="center">
