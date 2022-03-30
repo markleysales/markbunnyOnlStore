@@ -1,6 +1,6 @@
 <!-- --README MADE BY MARKLEY SALES!-- 500px min 100px títulos e bansc bold + 3px de borda (texto) --README MADE BY MARKLEY SALES!-- -->
 <h1 id="title">
-    <img width="580px" src="https://user-images.githubusercontent.com/95272518/159177310-6cc11133-034a-47dd-886a-a9b9a4163fdb.svg"><img align="right" height="20px" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmarkleysales%2FmarkbunnyOnlStore&count_bg=%23097BBB&title_bg=%2324292F&icon=cliqz.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"></h1>
+    <img width="580px" src="https://user-images.githubusercontent.com/95272518/159177310-6cc11133-034a-47dd-886a-a9b9a4163fdb.svg"><sub><img align="right" height="20px" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmarkleysales%2FmarkbunnyOnlStore&count_bg=%23097BBB&title_bg=%2324292F&icon=cliqz.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"></sub></h1>
 
 <div id="technologies">
   <p align="left"><a href="https://github.com/markleysales/markbunnyOnlStore/blob/main/package.json">
