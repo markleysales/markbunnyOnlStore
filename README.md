@@ -48,7 +48,7 @@
     <hr><br>
     <table>
       <th>
-        <img width=44%" src="https://user-images.githubusercontent.com/95272518/157804111-12b16362-6db7-4fab-a4ac-17b5a32d6a4e.svg">
+        <img width="44%" src="https://user-images.githubusercontent.com/95272518/157804111-12b16362-6db7-4fab-a4ac-17b5a32d6a4e.svg">
         <img width="44%" src="https://user-images.githubusercontent.com/95272518/157804174-756d704a-14b7-4e35-901f-f9cbffe271ec.svg">
       </tr>
     </table>
@@ -110,12 +110,12 @@ npm start
 <div id="about">
   <h3>About & Contact</h3>
   <hr>           
+  <img align="right" width="400px" src="https://user-images.githubusercontent.com/95272518/161021384-8a1aaca9-c538-4d2e-bc46-95b9a27ed7c7.svg">
   <h5>Email: marksales.dev.eng@gmail.com</h5>
   <a href="https://www.linkedin.com/in/markley-sales/"><img width="34px" src="https://user-images.githubusercontent.com/95272518/160725427-5c844c00-078d-4bee-9af7-2a89d5082b1c.svg"></a>
   <a href="https://www.behance.net/markleysales"><img width="34px" src="https://user-images.githubusercontent.com/95272518/160725548-52a7fde7-0dca-4eea-a1df-a4cef6cd5629.svg"></a>
   <a href="https://www.instagram.com/mark__sales/"><img width="34px" src="https://user-images.githubusercontent.com/95272518/160725991-e77f66f8-5cda-4b4a-aaec-7f0390233324.svg"></a>
   <br><br><br>
-  <p align="right"><sup>Ask questions and suggestions, give me feedback!<br>Thanks for viewing the project!</sup></p>
   <div align="center">
     <a href="https://github.com/markleysales">
        <img width="200px" src="https://user-images.githubusercontent.com/95272518/160969770-152ea4f4-1b8e-4319-a255-07657bfe4d2b.svg">
