@@ -117,7 +117,9 @@ npm start
   <br><br><br>
   <p align="right"><sup>Ask questions and suggestions, give me feedback!<br>Thanks for viewing the project!</sup></p>
   <div align="center">
-    <img width="200px" src="https://user-images.githubusercontent.com/95272518/160969770-152ea4f4-1b8e-4319-a255-07657bfe4d2b.svg">
+    <a href="https://github.com/markleysales">
+       <img width="200px" src="https://user-images.githubusercontent.com/95272518/160969770-152ea4f4-1b8e-4319-a255-07657bfe4d2b.svg">
+    </a>
   </div>
 </div>
 <!-- --README MADE BY MARKLEY SALES!--README MADE BY MARKLEY SALES!-- -->
