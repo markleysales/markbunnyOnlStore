@@ -32,7 +32,7 @@
 >"isAdmin" entered in user allows access for administrative changes (page).<br>
 >Implemented with Mongo database.</h5>
         
-<h5><a href="https://rockcontent.com/br/blog/e-commerce-guia/">WHAT IS ECOMMERCE?</a></h5>
+<h5>WHAT IS ECOMMERCE?</h5>
   
 ><h5><a href="https://rockcontent.com/br/blog/e-commerce-guia/">E-commerce refers to internet sales, more specifically, those carried out by a single company,<br>
 >whether a manufacturer or reseller, through its own virtual platform.<br>
