@@ -32,42 +32,44 @@
 >"isAdmin" entered in user allows access for administrative changes (page).<br>
 >Implemented with Mongo database.</h5>
         
-<h5><a href="https://rockcontent.com/br/blog/e-commerce-guia/">WHAT IS ECOMMERCE?<br><br>
-        E-commerce refers to internet sales, more specifically, those carried out by a single company,<br>
-        whether a manufacturer or reseller, through its own virtual platform.<br>
-        Its main advantages pointed out by consumers are:<br><br>
-          <ul>
-            <li>possibility of purchase at any time (convenience)</li>
-            <li>best prices (price).</li>
-          </ul></a></h5>
+<h5><a href="https://rockcontent.com/br/blog/e-commerce-guia/">WHAT IS ECOMMERCE?</a></h5>
+  
+><h5><a href="https://rockcontent.com/br/blog/e-commerce-guia/">E-commerce refers to internet sales, more specifically, those carried out by a single company,<br>
+>whether a manufacturer or reseller, through its own virtual platform.<br>
+>Its main advantages pointed out by consumers are:<br><br>
+><ul>
+><li>possibility of purchase at any time (convenience)</li>
+><li>best prices (price).</li>
+></ul></a></h5>
+    
   </div>
     
     
   <br><br><br> 
   
     
-  <div id="app-installs">
-    <h3>Machine installation required</h3>
-    <hr><br>
-    <table>
-      <th>
-        <img width="44%" src="https://user-images.githubusercontent.com/95272518/157804111-12b16362-6db7-4fab-a4ac-17b5a32d6a4e.svg">
-        <img width="44%" src="https://user-images.githubusercontent.com/95272518/157804174-756d704a-14b7-4e35-901f-f9cbffe271ec.svg">
-      </tr>
-    </table>
-    <h5>
-      Node.js: <a href="https://nodejs.org/en/">https://nodejs.org/en</a><br>
-      MongoDB: <a href="https://www.mongodb.com/try/download/community">https://www.mongodb.com/try/download/community</a>
-    </h5>
-  </div>
+<div id="app-installs">
+  <h3>Machine installation required</h3>
+  <hr><br>
+  <table>
+    <th>
+      <img width="44%" src="https://user-images.githubusercontent.com/95272518/157804111-12b16362-6db7-4fab-a4ac-17b5a32d6a4e.svg">
+      <img width="44%" src="https://user-images.githubusercontent.com/95272518/157804174-756d704a-14b7-4e35-901f-f9cbffe271ec.svg">
+    </tr>
+  </table>
+  <h5>
+    Node.js: <a href="https://nodejs.org/en/">https://nodejs.org/en</a><br>
+    MongoDB: <a href="https://www.mongodb.com/try/download/community">https://www.mongodb.com/try/download/community</a>
+  </h5>
+</div>
     
                                                                        
   <br><br><br>
     
                                                                        
-  <div id="instructions">
-    <h3>Starting application (console/prompt commands)</h3>
-    <hr>
+<div id="instructions">
+  <h3>Starting application (console/prompt commands)</h3>
+  <hr>
 <h5>FOLDER CREATION AND ACESS:</h5> 
     
 ```bash
