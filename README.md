@@ -28,9 +28,9 @@
 
 <h5>WHAT WAS DONE?</h5>
     
->Page for registration, login (with csurf protection), products, shopping cart, orders and errors.<br>
-        "isAdmin" entered in user allows access for administrative changes (page).<br>
-        Implemented with Mongo database.
+><h5>Page for registration, login (with csurf protection), products, shopping cart, orders and errors.<br>
+>"isAdmin" entered in user allows access for administrative changes (page).<br>
+>Implemented with Mongo database.</h5>
         
 <h5><a href="https://rockcontent.com/br/blog/e-commerce-guia/">WHAT IS ECOMMERCE?<br><br>
         E-commerce refers to internet sales, more specifically, those carried out by a single company,<br>
