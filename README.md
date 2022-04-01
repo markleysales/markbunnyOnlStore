@@ -25,11 +25,14 @@
     <img width="49.2%" src="https://user-images.githubusercontent.com/95272518/158731197-b8045c74-4f18-45a3-979e-0a346ab31994.png">
     <img width="49.2%" src="https://user-images.githubusercontent.com/95272518/158731209-02d943c5-361a-433f-a7f1-097e8447a57e.png"></div>
   <div id="items-and-questions"><br>
-        <h5>WHAT WAS DONE?<br><br>
-        Page for registration, login (with csurf protection), products, shopping cart, orders and errors.<br>
+
+<h5>WHAT WAS DONE?</h5>
+    
+>Page for registration, login (with csurf protection), products, shopping cart, orders and errors.<br>
         "isAdmin" entered in user allows access for administrative changes (page).<br>
-        Implemented with Mongo database.</h5>
-        <h5><a href="https://rockcontent.com/br/blog/e-commerce-guia/">WHAT IS ECOMMERCE?<br><br>
+        Implemented with Mongo database.
+        
+<h5><a href="https://rockcontent.com/br/blog/e-commerce-guia/">WHAT IS ECOMMERCE?<br><br>
         E-commerce refers to internet sales, more specifically, those carried out by a single company,<br>
         whether a manufacturer or reseller, through its own virtual platform.<br>
         Its main advantages pointed out by consumers are:<br><br>
