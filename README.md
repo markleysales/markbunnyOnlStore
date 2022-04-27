@@ -94,7 +94,7 @@ git clone https://github.com/markleysales/markbunnyOnlStore.git
 cd markbunnyOnlStore
 ```
     
-<p><sup>*check clone options in the "code" tab</sup></p>
+<p><sup><sup>*check clone options in the "code" tab</sup></sup></p>
     
 <h5>INSTALL DEPENDENCIES:</h5>
 
@@ -108,7 +108,7 @@ npm install
 npm start
 ```
 
-<p><sup>*remember to check, after the commands, if the MongoDB server is running (you can see it according to the MongoError console return: connect ECONNREFUSED 127.0.0.1:27017), if not, start it.</sup></p>
+<p><sup><sup>*remember to check, after the commands, if the MongoDB server is running (you can see it according to the MongoError console return: connect ECONNREFUSED 127.0.0.1:27017), if not, start it.</sup></sup></p>
 <h5>Open <a href="http://localhost:3000">localhost:3000</a> with your browser to see the result.</h5>
   </div>
     
